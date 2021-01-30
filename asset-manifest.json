@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spacex-rockets-rolodex/static/css/main.bb682d77.chunk.css",
+    "main.js": "/spacex-rockets-rolodex/static/js/main.8364065d.chunk.js",
+    "main.js.map": "/spacex-rockets-rolodex/static/js/main.8364065d.chunk.js.map",
+    "runtime-main.js": "/spacex-rockets-rolodex/static/js/runtime-main.b92431cb.js",
+    "runtime-main.js.map": "/spacex-rockets-rolodex/static/js/runtime-main.b92431cb.js.map",
+    "static/js/2.9d72f280.chunk.js": "/spacex-rockets-rolodex/static/js/2.9d72f280.chunk.js",
+    "static/js/2.9d72f280.chunk.js.map": "/spacex-rockets-rolodex/static/js/2.9d72f280.chunk.js.map",
+    "static/js/3.ce485112.chunk.js": "/spacex-rockets-rolodex/static/js/3.ce485112.chunk.js",
+    "static/js/3.ce485112.chunk.js.map": "/spacex-rockets-rolodex/static/js/3.ce485112.chunk.js.map",
+    "index.html": "/spacex-rockets-rolodex/index.html",
+    "static/css/main.bb682d77.chunk.css.map": "/spacex-rockets-rolodex/static/css/main.bb682d77.chunk.css.map",
+    "static/js/2.9d72f280.chunk.js.LICENSE.txt": "/spacex-rockets-rolodex/static/js/2.9d72f280.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b92431cb.js",
+    "static/js/2.9d72f280.chunk.js",
+    "static/css/main.bb682d77.chunk.css",
+    "static/js/main.8364065d.chunk.js"
+  ]
+}
