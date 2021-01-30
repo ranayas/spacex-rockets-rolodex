@@ -1,0 +1,13 @@
+.search-box {
+  background-color: transparent;
+  font-family: Noto Sans, sans-serif;
+  font-weight: 400;
+  color: lightgray;
+  border: .3em solid white;
+  font-size: .8em;
+  text-align: center;
+}
+
+.search-box::placeholder {
+  color:lightgray;
+}
