@@ -24,7 +24,9 @@ class App extends Component {
 
   render() {
     const filteredMonsters = this.state.rockets.filter(rocket =>
-      rocket.name.toLowerCase().includes(this.state.searchField.toLowerCase())
+      rocket.name
+        .toLowerCase()
+        .includes(this.state.searchField.trim().toLowerCase())
     );
     return (
       <div className='App'>
