@@ -6,9 +6,9 @@ export const Card = ({ rocket }) => {
       <img
         className='card__image'
         src={rocket.flickr_images[0]}
-        alt={rocket.rocket_name}
+        alt={rocket.name}
       />
-      <h2 className='card__title'>{rocket.rocket_name}</h2>
+      <h2 className='card__title'>{rocket.name}</h2>
       <ul className='card__details'>
         <li className='card__details__item'>
           First flight: {rocket.first_flight}

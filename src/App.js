@@ -13,7 +13,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch('https://api.spacexdata.com/v3/rockets')
+    fetch('https://api.spacexdata.com/v4/rockets')
       .then(response => response.json())
       .then(rockets => this.setState({ rockets }));
   }
@@ -24,9 +24,7 @@ class App extends Component {
 
   render() {
     const filteredMonsters = this.state.rockets.filter(rocket =>
-      rocket.rocket_name
-        .toLowerCase()
-        .includes(this.state.searchField.toLowerCase())
+      rocket.name.toLowerCase().includes(this.state.searchField.toLowerCase())
     );
     return (
       <div className='App'>
