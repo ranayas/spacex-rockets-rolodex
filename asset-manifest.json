@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spacex-rockets-rolodex/static/css/main.1127a578.chunk.css",
-    "main.js": "/spacex-rockets-rolodex/static/js/main.8364065d.chunk.js",
-    "main.js.map": "/spacex-rockets-rolodex/static/js/main.8364065d.chunk.js.map",
+    "main.js": "/spacex-rockets-rolodex/static/js/main.67393757.chunk.js",
+    "main.js.map": "/spacex-rockets-rolodex/static/js/main.67393757.chunk.js.map",
     "runtime-main.js": "/spacex-rockets-rolodex/static/js/runtime-main.b92431cb.js",
     "runtime-main.js.map": "/spacex-rockets-rolodex/static/js/runtime-main.b92431cb.js.map",
     "static/js/2.9d72f280.chunk.js": "/spacex-rockets-rolodex/static/js/2.9d72f280.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b92431cb.js",
     "static/js/2.9d72f280.chunk.js",
     "static/css/main.1127a578.chunk.css",
-    "static/js/main.8364065d.chunk.js"
+    "static/js/main.67393757.chunk.js"
   ]
 }
